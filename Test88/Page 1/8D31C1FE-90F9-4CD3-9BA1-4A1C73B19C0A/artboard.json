@@ -51,6 +51,10 @@
     {
       "class": "text",
       "id": "DBC27239-609D-405D-8138-6F3EFA36D317"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11E14A14-C063-43C9-9B99-C984EFF9BB73"
     }
   ],
   "name": "Android",
